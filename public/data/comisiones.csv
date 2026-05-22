@@ -1,0 +1,4 @@
+plan,comision_porcentaje,monto_minimo_mensual,incluye_seguro_basico,soporte_prioritario,descripcion
+basico,25,0,si,no,Plan estándar para dueños con 1-2 vehículos. Comisión 25% sobre ingresos brutos.
+pro,20,0,si,si,Plan para flotas medianas (3-5 vehículos). Comisión 20% más soporte prioritario.
+premium,17,50000,si,si,Plan para flotas grandes (6+ vehículos). Comisión 17% con monto mínimo mensual.

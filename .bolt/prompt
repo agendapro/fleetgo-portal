@@ -1,0 +1,5 @@
+Este proyecto es FleetGo Portal del Dueño — un Next.js 14 (App Router) en TypeScript con Tailwind.
+Datos en public/data/*.csv (reservas, vehículos, dueños, incidentes, comisiones + faq.md).
+La lógica vive en lib/: data loader (papaparse), statements (liquidación quincenal), alerts, notifications, assistant (Claude API con fallback local).
+El asistente IA usa @anthropic-ai/sdk si hay ANTHROPIC_API_KEY; si no, cae a routing por keyword sobre el FAQ.
+Comando para correr: npm install && npm run dev. Abre la landing y elige un dueño.

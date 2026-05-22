@@ -1,0 +1,83 @@
+incidente_id,reserva_id,tipo,fecha,monto_asociado,descripcion
+I001,R0305,combustible_insuficiente,2026-04-01,59544,Devolución con 1/4 de tanque cuando se entregó lleno. Cargo aplicado.
+I002,R0322,combustible_insuficiente,2026-04-17,34357,Auto devuelto con tanque casi vacío. Contrato exigía mismo nivel de entrega. Se cobra recarga más recargo.
+I003,R0137,multa_transito,2026-04-20,50214,Multa por exceso de velocidad recibida 5 días después de la devolución. Se descontará del próximo pago al cliente.
+I004,R0208,devolucion_tardia,2026-04-05,35753,Atraso de 2 horas. No aplica recargo según política (margen de tolerancia).
+I005,R0198,multa_transito,2026-04-11,70405,Multa por exceso de velocidad recibida 5 días después de la devolución. Se descontará del próximo pago al cliente.
+I006,R0242,reclamo_cliente,2026-04-25,8683,"Cliente molesto por demora en la entrega, exige descuento. Caso escalado a customer success."
+I007,R0050,devolucion_tardia,2026-03-05,51502,Devolución con 1 día de atraso. Cliente avisó pero no pagó la extensión. Se cobra día completo más recargo.
+I008,R0306,combustible_insuficiente,2026-04-16,20873,Auto devuelto con tanque casi vacío. Contrato exigía mismo nivel de entrega. Se cobra recarga más recargo.
+I009,R0195,multa_transito,2026-03-19,31617,Multa cursada en Las Condes durante el período de reserva. Sin disputa.
+I010,R0163,combustible_insuficiente,2026-03-05,51669,Devolución con 1/4 de tanque cuando se entregó lleno. Cargo aplicado.
+I011,R0135,devolucion_tardia,2026-04-20,26108,Atraso de 2 horas. No aplica recargo según política (margen de tolerancia).
+I012,R0079,neumatico_pinchado,2026-03-05,57317,Pinchazo en ruta. Cliente solicita reembolso de la reparación que pagó. Se valida boleta entregada.
+I013,R0082,multa_transito,2026-04-03,66170,Multa de estacionamiento. Fecha y patente coinciden con el período de arriendo.
+I014,R0230,neumatico_pinchado,2026-04-02,48666,Pinchazo en ruta. Cliente solicita reembolso de la reparación que pagó. Se valida boleta entregada.
+I015,R0139,dano_interior,2026-03-14,179971,"Olor fuerte a tabaco en el interior, pese a la política de no fumar. Se aplica multa."
+I016,R0328,dano_interior,2026-03-20,85517,Quemadura de cigarro en tapiz. Cliente niega responsabilidad pero el auto se entregó sin esa marca.
+I017,R0169,rayon_carroceria,2026-03-30,139585,Rayón leve en costado del vehículo. Cliente disputa la responsabilidad. Caso en revisión.
+I018,R0182,extravio_documentos,2026-04-20,26721,Falta documento de seguro al devolver el auto. Cliente lo entrega 2 días después.
+I019,R0360,devolucion_tardia,2026-03-17,54532,Devolución con 1 día de atraso. Cliente avisó pero no pagó la extensión. Se cobra día completo más recargo.
+I020,R0385,dano_interior,2026-04-04,96566,Quemadura de cigarro en tapiz. Cliente niega responsabilidad pero el auto se entregó sin esa marca.
+I021,R0217,reclamo_cliente,2026-04-18,45544,"Cliente molesto por demora en la entrega, exige descuento. Caso escalado a customer success."
+I022,R0349,extravio_documentos,2026-05-01,12322,"Cliente extravió permiso de circulación durante el arriendo. Dueño debe gestionar duplicado, costo cubierto por cliente."
+I023,R0157,combustible_insuficiente,2026-03-04,51952,Devolución con 1/4 de tanque cuando se entregó lleno. Cargo aplicado.
+I024,R0112,devolucion_tardia,2026-04-20,16763,Atraso de 2 horas. No aplica recargo según política (margen de tolerancia).
+I025,R0402,extravio_documentos,2026-05-01,26138,"Cliente extravió permiso de circulación durante el arriendo. Dueño debe gestionar duplicado, costo cubierto por cliente."
+I026,R0163,multa_transito,2026-03-10,95444,Multa por no respetar luz roja. Cliente disputa pero la fotografía coincide con el auto y la fecha.
+I027,R0079,neumatico_pinchado,2026-03-05,68166,Neumático trasero izquierdo pinchado. Cliente lo cambió por la rueda de auxilio. Costo de reparación en validación.
+I028,R0086,combustible_insuficiente,2026-04-06,44430,Devolución con 1/4 de tanque cuando se entregó lleno. Cargo aplicado.
+I029,R0330,extravio_documentos,2026-03-22,16600,Falta documento de seguro al devolver el auto. Cliente lo entrega 2 días después.
+I030,R0384,combustible_insuficiente,2026-03-03,50186,Auto devuelto con tanque casi vacío. Contrato exigía mismo nivel de entrega. Se cobra recarga más recargo.
+I031,R0328,multa_transito,2026-03-21,116193,Multa por exceso de velocidad recibida 5 días después de la devolución. Se descontará del próximo pago al cliente.
+I032,R0367,reclamo_cliente,2026-04-10,40152,Cliente reclama que el auto tenía menos combustible del declarado al inicio. Se revisan fotos del check-in.
+I033,R0027,combustible_insuficiente,2026-04-26,21943,Devolución con 1/4 de tanque cuando se entregó lleno. Cargo aplicado.
+I034,R0006,multa_transito,2026-04-11,96935,Multa cursada en Las Condes durante el período de reserva. Sin disputa.
+I035,R0282,dano_interior,2026-04-21,152533,Quemadura de cigarro en tapiz. Cliente niega responsabilidad pero el auto se entregó sin esa marca.
+I036,R0252,devolucion_tardia,2026-04-01,46638,Devolución con 1 día de atraso. Cliente avisó pero no pagó la extensión. Se cobra día completo más recargo.
+I037,R0059,neumatico_pinchado,2026-03-26,32606,Pinchazo en ruta. Cliente solicita reembolso de la reparación que pagó. Se valida boleta entregada.
+I038,R0403,devolucion_tardia,2026-05-01,37483,Devolución con 1 día de atraso. Cliente avisó pero no pagó la extensión. Se cobra día completo más recargo.
+I039,R0248,dano_interior,2026-05-02,141304,"Olor fuerte a tabaco en el interior, pese a la política de no fumar. Se aplica multa."
+I040,R0259,multa_transito,2026-04-29,121326,Multa por no respetar luz roja. Cliente disputa pero la fotografía coincide con el auto y la fecha.
+I041,R0246,reclamo_cliente,2026-04-12,2928,Cliente reclama que el auto tenía menos combustible del declarado al inicio. Se revisan fotos del check-in.
+I042,R0393,multa_transito,2026-04-07,114930,Multa por exceso de velocidad recibida 5 días después de la devolución. Se descontará del próximo pago al cliente.
+I043,R0061,devolucion_tardia,2026-04-21,48816,Atraso de 2 horas. No aplica recargo según política (margen de tolerancia).
+I044,R0098,devolucion_tardia,2026-03-16,42942,Devolución con 1 día de atraso. Cliente avisó pero no pagó la extensión. Se cobra día completo más recargo.
+I045,R0251,dano_interior,2026-03-31,98352,Quemadura de cigarro en tapiz. Cliente niega responsabilidad pero el auto se entregó sin esa marca.
+I046,R0104,combustible_insuficiente,2026-03-04,55246,Devolución con 1/4 de tanque cuando se entregó lleno. Cargo aplicado.
+I047,R0111,extravio_documentos,2026-03-30,145,Falta documento de seguro al devolver el auto. Cliente lo entrega 2 días después.
+I048,R0390,dano_interior,2026-03-19,247217,"Mancha grande en asiento trasero, posiblemente bebida derramada. Cliente acepta cargo de limpieza profunda."
+I049,R0390,multa_transito,2026-03-21,54505,Multa por exceso de velocidad recibida 5 días después de la devolución. Se descontará del próximo pago al cliente.
+I050,R0201,reclamo_cliente,2026-05-02,7468,Cliente reclama que el auto tenía menos combustible del declarado al inicio. Se revisan fotos del check-in.
+I051,R0145,extravio_documentos,2026-04-08,12734,Falta documento de seguro al devolver el auto. Cliente lo entrega 2 días después.
+I052,R0336,combustible_insuficiente,2026-04-13,38067,Auto devuelto con tanque casi vacío. Contrato exigía mismo nivel de entrega. Se cobra recarga más recargo.
+I053,R0249,devolucion_tardia,2026-04-05,67468,Atraso de 2 horas. No aplica recargo según política (margen de tolerancia).
+I054,R0166,multa_transito,2026-03-30,45448,Multa de estacionamiento. Fecha y patente coinciden con el período de arriendo.
+I055,R0133,neumatico_pinchado,2026-03-20,49464,Neumático trasero izquierdo pinchado. Cliente lo cambió por la rueda de auxilio. Costo de reparación en validación.
+I056,R0385,devolucion_tardia,2026-04-05,42409,Atraso de 2 horas. No aplica recargo según política (margen de tolerancia).
+I057,R0329,devolucion_tardia,2026-04-07,42724,Atraso de 2 horas. No aplica recargo según política (margen de tolerancia).
+I058,R0104,extravio_documentos,2026-03-08,5467,"Cliente extravió permiso de circulación durante el arriendo. Dueño debe gestionar duplicado, costo cubierto por cliente."
+I059,R0267,neumatico_pinchado,2026-03-06,45616,Neumático trasero izquierdo pinchado. Cliente lo cambió por la rueda de auxilio. Costo de reparación en validación.
+I060,R0245,rayon_carroceria,2026-04-11,167037,"Daño en puerta delantera derecha, rayón profundo de aproximadamente 15 cm. Pendiente cotización del taller."
+I061,R0077,dano_interior,2026-04-22,182497,Quemadura de cigarro en tapiz. Cliente niega responsabilidad pero el auto se entregó sin esa marca.
+I062,R0361,extravio_documentos,2026-04-18,16112,Falta documento de seguro al devolver el auto. Cliente lo entrega 2 días después.
+I063,R0227,extravio_documentos,2026-03-12,2708,Falta documento de seguro al devolver el auto. Cliente lo entrega 2 días después.
+I064,R0311,rayon_carroceria,2026-03-23,48570,Rayón superficial en parachoque trasero. Cliente acepta el cargo sin disputa.
+I065,R0154,dano_interior,2026-03-26,94094,"Olor fuerte a tabaco en el interior, pese a la política de no fumar. Se aplica multa."
+I066,R0249,extravio_documentos,2026-04-04,3742,"Cliente extravió permiso de circulación durante el arriendo. Dueño debe gestionar duplicado, costo cubierto por cliente."
+I067,R0151,reclamo_cliente,2026-04-17,49807,Reclamo por aire acondicionado que no funcionaba. Dueño no había reportado el problema. Se descuenta del pago.
+I068,R0398,extravio_documentos,2026-03-05,3355,"Cliente extravió permiso de circulación durante el arriendo. Dueño debe gestionar duplicado, costo cubierto por cliente."
+I069,R0406,dano_interior,2026-04-27,167894,Quemadura de cigarro en tapiz. Cliente niega responsabilidad pero el auto se entregó sin esa marca.
+I070,R0145,reclamo_cliente,2026-04-07,7693,Cliente reclama que el auto tenía menos combustible del declarado al inicio. Se revisan fotos del check-in.
+I071,R0132,dano_interior,2026-03-29,230652,"Olor fuerte a tabaco en el interior, pese a la política de no fumar. Se aplica multa."
+I072,R0193,combustible_insuficiente,2026-03-23,24124,Auto devuelto con tanque casi vacío. Contrato exigía mismo nivel de entrega. Se cobra recarga más recargo.
+I073,R0115,dano_interior,2026-03-19,141964,"Mancha grande en asiento trasero, posiblemente bebida derramada. Cliente acepta cargo de limpieza profunda."
+I074,R0293,neumatico_pinchado,2026-04-25,89159,Neumático trasero izquierdo pinchado. Cliente lo cambió por la rueda de auxilio. Costo de reparación en validación.
+I075,R0390,neumatico_pinchado,2026-03-21,42520,Pinchazo en ruta. Cliente solicita reembolso de la reparación que pagó. Se valida boleta entregada.
+I076,R0280,multa_transito,2026-04-26,37770,Multa de estacionamiento. Fecha y patente coinciden con el período de arriendo.
+I077,R0155,devolucion_tardia,2026-03-24,31362,Atraso de 2 horas. No aplica recargo según política (margen de tolerancia).
+I078,R0082,reclamo_cliente,2026-04-05,25736,Cliente reclama que el auto tenía menos combustible del declarado al inicio. Se revisan fotos del check-in.
+I079,R0267,devolucion_tardia,2026-03-10,32610,Atraso de 2 horas. No aplica recargo según política (margen de tolerancia).
+I080,R0346,combustible_insuficiente,2026-04-09,19949,Devolución con 1/4 de tanque cuando se entregó lleno. Cargo aplicado.
+I081,R0401,multa_transito,2026-05-01,89597,Multa cursada en Las Condes durante el período de reserva. Sin disputa.
+I082,R0406,multa_transito,2026-04-27,125804,Multa por exceso de velocidad recibida 5 días después de la devolución. Se descontará del próximo pago al cliente.
